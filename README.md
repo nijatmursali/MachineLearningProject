@@ -6,6 +6,19 @@ This repository is made to fulfill all the information about the project.
 
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications. It is the fastest and the simplest way to do image recognition on your laptop or computer without any GPU because it is just an API and your CPU is good enough for this. We will be adding our dataset into the Tensorflow and applying all the mentioned things below.
 
+# Usage 
+
+Clone the library by copying the specified link.
+```bash
+git clone https://github.com/nijatmursali/MachineLearningProject
+```
+Go to models/research folder and type the following command. 
+
+```bash
+set PYTHONPATH='pwd';'pwd'/slim
+```
+
+Then run the file detectingCamera.py in models/research/object_detection folder.
 
 # Installation
 

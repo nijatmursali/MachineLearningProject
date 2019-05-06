@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_7781.JPG</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\IMG_7781.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kamera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>98</ymin>
+			<xmax>657</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

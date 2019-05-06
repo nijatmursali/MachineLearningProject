@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>44381655_2346572538895747_7735721714868289536_n.jpg</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\train\44381655_2346572538895747_7735721714868289536_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>298</ymin>
+			<xmax>534</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_7739.JPG</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\train\IMG_7739.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cuzdan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>54</ymin>
+			<xmax>746</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

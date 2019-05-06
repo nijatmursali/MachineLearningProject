@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WhatsApp Image 2019-05-01 at 12.33.34 PM (2).jpeg</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\WhatsApp Image 2019-05-01 at 12.33.34 PM (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1142</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alakbarova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>197</ymin>
+			<xmax>686</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

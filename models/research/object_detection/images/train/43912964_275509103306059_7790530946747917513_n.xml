@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>43912964_275509103306059_7790530946747917513_n.jpg</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\train\43912964_275509103306059_7790530946747917513_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gunebaxan tumu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>53</ymin>
+			<xmax>299</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gunebaxan tumu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>53</ymin>
+			<xmax>666</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

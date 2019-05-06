@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>iphone8-plus-gold-select-2018.png</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\iphone8-plus-gold-select-2018.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iphone 5S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>71</ymin>
+			<xmax>754</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

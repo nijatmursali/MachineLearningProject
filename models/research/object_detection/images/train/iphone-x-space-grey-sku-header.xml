@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>iphone-x-space-grey-sku-header.png</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\train\iphone-x-space-grey-sku-header.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iphone 5S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>4</ymin>
+			<xmax>636</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

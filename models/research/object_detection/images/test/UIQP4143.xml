@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>UIQP4143.JPG</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\UIQP4143.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>270</ymin>
+			<xmax>381</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,92 @@
+item {
+	id: 1
+	name: 'Insan'
+}
+item {
+	id: 2
+	name: 'Qələm'
+}
+item {
+	id: 3
+	name: 'Günəbaxan tumu'
+}
+item {
+	id: 4
+	name: 'Lays'
+}
+item {
+	id: 5
+	name: 'Iphone 5S'
+}
+item {
+	id: 6
+	name: 'Pişik'
+}
+item {
+	id: 7
+	name: 'Dəftər'
+}
+item {
+	id: 8
+	name: 'Kompüter'
+}
+item {
+	id: 9
+	name: 'Ekran'
+}
+item {
+	id: 10
+	name: 'Klavyatura'
+}
+item {
+	id: 11
+	name: 'Çanta'
+}
+item {
+	id: 12
+	name: 'Stul'
+}
+item {
+	id: 13
+	name: 'Lövhə'
+}
+item {
+	id: 14
+	name: 'Projektor'
+}
+item {
+	id: 15
+	name: 'Qara canta'
+}
+item {
+	id: 16
+	name: 'Silgi'
+}
+item {
+	id: 17
+	name: 'Cüzdan'
+}
+item {
+	id: 18
+	name: 'Iphone 8'
+}
+item {
+	id: 19
+	name: 'Açar'
+}
+item {
+	id: 20
+	name: 'Qapı'
+}
+item {
+	id: 21
+	name: 'Saat'
+}
+item {
+	id: 22
+	name: 'Kamera'
+}
+item {
+	id: 23
+	name: 'Alakbarova'
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Cello-Finegrip-Black-Ballpoint-Pen-SDL280702448-1-88fc8.jpg</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\Cello-Finegrip-Black-Ballpoint-Pen-SDL280702448-1-88fc8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Qelem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>17</ymin>
+			<xmax>719</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

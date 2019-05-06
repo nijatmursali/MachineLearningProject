@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>81PqykQp1VL._SY450_.jpg</filename>
+	<path>C:\Users\Nijat\Desktop\Tensorflow\models\research\object_detection\images\test\81PqykQp1VL._SY450_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lays</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>9</ymin>
+			<xmax>768</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>
